@@ -67,8 +67,6 @@ multi-cloud-collab-platform/
 
 - Aditya Thelu  
 - Sri Sai Suhas Sanisetty  
-- Mohith D M  
-- Navin Kumar  
 - Samsung R&D Contributors
 
 ---
