@@ -16,31 +16,7 @@ A robust system that enables seamless task coordination and data synchronization
 ---
 
 ## 📦 Project Structure
-
-multi-cloud-collab-platform/
-├── terraform-aws/
-│   ├── provider.tf
-│   ├── main.tf
-│   └── variables.tf
-├── terraform-azure/
-│   ├── provider.tf
-│   ├── main.tf
-│   └── variables.tf
-├── flask-app/
-│   ├── secure_data_transfer.py
-│   ├── requirements.txt
-│   └── README.md
-├── monitoring/
-│   ├── docker-compose.yml
-│   └── prometheus.yml
-├── locust-tests/
-│   └── locustfile.py
-├── diagrams/
-│   └── multi-cloud-architecture.png  (I'll help design this)
-├── sample-files/
-│   └── example.txt
-├── README.md
-└── .gitignore
+<img width="322" height="499" alt="Screenshot 2025-07-11 at 7 40 08 AM" src="https://github.com/user-attachments/assets/8865a61c-8466-4067-bc5e-bc6406677aaf" />
 
 
 ---
